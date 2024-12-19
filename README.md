@@ -1,7 +1,8 @@
 ### Hello!  
-## Better put some stuff here
+#### Welcome to my page.
+
+First-year ICT student @ Centria UAS in Kokkola, Finland
 
 
-Maybe I'll be a developer one day, who knows. 
-Welcome to my page 
+
 
